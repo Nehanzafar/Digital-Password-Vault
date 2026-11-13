@@ -54,9 +54,8 @@ The complete circuit is designed and simulated using **Proteus Design Suite**.
 
 Add your complete circuit screenshot here.
 
-```markdown
-![Circuit Schematic](Images/DigitalVault-1.png)
-```
+<img width="4020" height="4020" alt="DigitalVault-1" src="https://github.com/user-attachments/assets/a62ddcc6-5924-4289-a736-04bdaec7f5ea" />
+
 
 ### Simulation Demonstration
 
